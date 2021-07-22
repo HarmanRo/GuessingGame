@@ -1,0 +1,2 @@
+# GuessingGame
+This game picks a random number form 1-10. Then asks the user to guess a number from 1-10. If the user is close to the number the game has picked, the game will then let the user know that they are getting "hotter". If the user picks a number that further than the number picked by the game, then the game will indicate "colder" to the user. These indication will continue until the user has guessed the correct number. After each user guess the guess counter will increase by one. 
